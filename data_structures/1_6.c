@@ -14,8 +14,8 @@ void printArrayAddress(int a[][3])
 	int i, j;
 	// 반복문을 통해 배열 array의 원소의 주소를 구함
 	for (i = 0; i <= 1; i++)
-	{
-		for (j = 0; j <= 2; j++)
+	{// 행이 2개이므로 2번 반복함
+		for (j = 0; j <= 2; j++)	// 열이 3개이므로 3번 반복함
 			printf("%p ", &a[i][j]);
 		printf("\n");
 	}

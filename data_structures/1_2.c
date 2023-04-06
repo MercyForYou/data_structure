@@ -23,7 +23,7 @@ void matrix_diff(int* a, int* b, int* c) // 주소 값을 받기 위해 매개 변수로 포인
 {	// 배열 a와 배열 b의 뺄셈 연산을 SIZE(10)번 반복 실행
 	int i;
 	for (i = 0; i < SIZE; i++)
-	{
+	{// 결과를 배열 c에 넣음
 		c[i] = a[i] - b[i];
 	}
 }
