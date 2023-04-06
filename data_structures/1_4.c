@@ -8,8 +8,8 @@ void search(int input[], int* find, int* index);
 int main()
 {
 	int i;
-	int* find = NULL;
-	int* index = NULL;
+	int find = 0;
+	int index = 0;
 	// 반복문을 통해 배열 input을 입력한 값으로 초기화 
 	for (i = 0; i < 10; i++)
 	{
@@ -19,7 +19,7 @@ int main()
 
 	search(input, &find, &index);
 
-	if (index == NULL)
+	if (index == 0)
 		printf("입력하신 값은 배열에 없습니다.");
 	else
 		printf("입력하신 값은 배열의 %d번 인덱스에 있습니다.", index);
@@ -30,9 +30,9 @@ void search(int input[], int* find, int* index)
 	int i;
 	for (i = 0; i < 10; i++)
 	{
-		if (find == a[i])
+		if (*find == a[i])
 		{
-			index = i;
+			*index = i;
 		}
 	}
 }

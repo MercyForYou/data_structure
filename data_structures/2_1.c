@@ -8,6 +8,24 @@ typedef struct student
 	int score;
 } student;
 
+int get_mean(student students[], int num);
+int get_deviation(student students[], int num);
+
+int main() 
+{
+	student students[1000];
+	int num = 0, i;
+	
+	printf("학생 수를 입력하세요: ");
+	scanf("%d", &num);
+	for (i = 0; i < num; i++) 
+	{
+		scanf("%s %d %d", &students[i].name, &students[i].student_number, &students[i].score);
+	}
+	get_mean(student students[], int num);
+	get_deviation(student students[], int num);
+}
+
 int get_mean(student students[], int num)
 {
 	double mean = 0, i;
@@ -29,19 +47,4 @@ int get_deviation(student students[], int num)
 		deviation += pow((students[i].score) - mean), 2);
 	}
 	return sqrt((deviation / num));
-}
-
-int main() 
-{
-	student students[1000];
-	int num = 0, i;
-	
-	printf("학생 수를 입력하세요: ");
-	scanf("%d", &num);
-	for (i = 0; i < num; i++) 
-	{
-		scanf("%s %d %d", &students[i].name, &students[i].student_number, &students[i].score);
-	}
-	get_mean(student students[], int num);
-	get_deviation(student students[], int num);
 }
