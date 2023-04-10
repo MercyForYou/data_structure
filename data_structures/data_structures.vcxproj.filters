@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\practice">
+      <UniqueIdentifier>{941b6ebc-9390-4e48-aebb-07f093f35f03}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_1.c">
@@ -34,6 +37,27 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="311.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="312.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="313.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="312_compare.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="314.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="314_practice.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="323.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
