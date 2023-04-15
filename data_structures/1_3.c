@@ -4,7 +4,7 @@
 
 int main()
 {	// 크기가 10인 1차원 배열 a
-	int a[10] = { 0 };
+	int a[10];
 	int i, max, min;
 	// rand 함수의 값 초기화
 	srand(time(NULL));

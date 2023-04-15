@@ -7,7 +7,7 @@ void main()
 	int array[2][3] = { {1, 2, 3}, {4, 5, 6} };
 
 	printf("배열 array의 출력 : \n");
-	printArrayAddress(array);
+	printArrayAddress(array);	// printArrayAddress 함수 호출
 }
 void printArrayAddress(int a[][3])
 {	// 2차원 배열 array의 주소를 구하는 함수

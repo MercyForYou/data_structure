@@ -11,7 +11,7 @@ int main()
 	int i;
 	// 모든 값을 전달하고 받아오기 위해 배열을 매개값으로 사용함
 	// 배열 이름은 주소 상수라는 점을 이용하였음
-	matrix_diff(a, b, c);
+	matrix_diff(a, b, c);	// matrix_diff 함수 호출
 	// 올바르게 연산과 저장이 됐는지 결과를 확인해보기 위한 출력
 	for (i = 0; i < SIZE; i++)
 	{
