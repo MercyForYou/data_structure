@@ -117,5 +117,11 @@
     <ClCompile Include="3_10.c">
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
+    <ClCompile Include="3_11.c">
+      <Filter>소스 파일\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="3_12.c">
+      <Filter>소스 파일\homework</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
