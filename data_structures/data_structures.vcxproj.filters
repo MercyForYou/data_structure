@@ -100,7 +100,22 @@
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
     <ClCompile Include="325_2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="330.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="412.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="412_2.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="421.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="3_10.c">
+      <Filter>소스 파일\homework</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
