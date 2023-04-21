@@ -123,5 +123,11 @@
     <ClCompile Include="3_12.c">
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
+    <ClCompile Include="3_13.c">
+      <Filter>소스 파일\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="3_14&amp;15.c">
+      <Filter>소스 파일\homework</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
