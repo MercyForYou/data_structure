@@ -135,5 +135,14 @@
     <ClCompile Include="3_17.c">
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
+    <ClCompile Include="423.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="424.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="425.c">
+      <Filter>소스 파일\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
