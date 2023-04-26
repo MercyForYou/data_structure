@@ -13,44 +13,17 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\practice">
-      <UniqueIdentifier>{941b6ebc-9390-4e48-aebb-07f093f35f03}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\homework">
       <UniqueIdentifier>{6ba0a4d1-aa2b-4ca9-9719-45d7ef8c6389}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\practice_3">
+      <UniqueIdentifier>{941b6ebc-9390-4e48-aebb-07f093f35f03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\practice_4">
+      <UniqueIdentifier>{f666a853-ba4d-42b2-923e-ed47d072a19e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="311.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="312.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="313.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="312_2.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="314.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="314_2.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="323.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="324.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="324_2.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="325.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
     <ClCompile Include="1_1.c">
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
@@ -99,21 +72,6 @@
     <ClCompile Include="3_9.c">
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
-    <ClCompile Include="325_2.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="330.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="412.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="412_2.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
-    <ClCompile Include="421.c">
-      <Filter>소스 파일\practice</Filter>
-    </ClCompile>
     <ClCompile Include="3_10.c">
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
@@ -135,14 +93,89 @@
     <ClCompile Include="3_17.c">
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
+    <ClCompile Include="311.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="312.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="312_2.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="313.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="314.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="314_2.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="323.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="324.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="324_2.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="325.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="325_2.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="330.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="412.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="412_2.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="421.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
     <ClCompile Include="423.c">
-      <Filter>소스 파일\practice</Filter>
+      <Filter>소스 파일\practice_4</Filter>
     </ClCompile>
     <ClCompile Include="424.c">
-      <Filter>소스 파일\practice</Filter>
+      <Filter>소스 파일\practice_4</Filter>
     </ClCompile>
     <ClCompile Include="425.c">
-      <Filter>소스 파일\practice</Filter>
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="426.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="427.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="428.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="429.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="433.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="434.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="435.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="444.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="445.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="450_2.c">
+      <Filter>소스 파일\practice_4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
