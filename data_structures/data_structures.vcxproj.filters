@@ -177,5 +177,8 @@
     <ClCompile Include="450_2.c">
       <Filter>소스 파일\practice_4</Filter>
     </ClCompile>
+    <ClCompile Include="17.c">
+      <Filter>소스 파일\homework</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
