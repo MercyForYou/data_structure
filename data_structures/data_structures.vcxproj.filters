@@ -180,5 +180,11 @@
     <ClCompile Include="17.c">
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
+    <ClCompile Include="330_practice.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="314_2practice.c">
+      <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
