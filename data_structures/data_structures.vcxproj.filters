@@ -183,8 +183,11 @@
     <ClCompile Include="330_practice.c">
       <Filter>소스 파일\practice_3</Filter>
     </ClCompile>
-    <ClCompile Include="314_2practice.c">
+    <ClCompile Include="314_2_practice.c">
       <Filter>소스 파일\practice_3</Filter>
+    </ClCompile>
+    <ClCompile Include="450_2_practice.c">
+      <Filter>소스 파일\practice_4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
