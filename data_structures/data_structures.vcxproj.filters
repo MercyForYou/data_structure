@@ -189,5 +189,14 @@
     <ClCompile Include="450_2_practice.c">
       <Filter>소스 파일\practice_4</Filter>
     </ClCompile>
+    <ClCompile Include="412_practice.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="412_2_practice.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
+    <ClCompile Include="421_practice.c">
+      <Filter>소스 파일\practice_4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
